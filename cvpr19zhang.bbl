@@ -1,0 +1,190 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{Abadi2016TensorFlow}
+M.~Abadi, A.~Agarwal, P.~Barham, E.~Brevdo, Z.~Chen, C.~Citro, G.~S. Corrado,
+  A.~Davis, J.~Dean, M.~Devin, et~al.
+\newblock Tensorflow: Large-scale machine learning on heterogeneous distributed
+  systems.
+\newblock {\em arXiv preprint arXiv:1603.04467}, 2016.
+
+\bibitem{Ba2016Layer}
+J.~L. Ba, J.~R. Kiros, and G.~E. Hinton.
+\newblock Layer normalization.
+\newblock {\em arXiv preprint arXiv:1607.06450}, 2016.
+
+\bibitem{bengio2015scheduled}
+S.~Bengio, O.~Vinyals, N.~Jaitly, and N.~Shazeer.
+\newblock Scheduled sampling for sequence prediction with recurrent neural
+  networks.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  1171--1179, 2015.
+
+\bibitem{Cho2014On}
+K.~Cho, B.~Van~Merri{\"e}nboer, D.~Bahdanau, and Y.~Bengio.
+\newblock On the properties of neural machine translation: Encoder-decoder
+  approaches.
+\newblock {\em arXiv preprint arXiv:1409.1259}, 2014.
+
+\bibitem{de2016dynamic}
+B.~De~Brabandere, X.~Jia, T.~Tuytelaars, and L.~Van~Gool.
+\newblock Dynamic filter networks.
+\newblock In {\em NIPS}, 2016.
+
+\bibitem{denton2018stochastic}
+E.~Denton and R.~Fergus.
+\newblock Stochastic video generation with a learned prior.
+\newblock {\em arXiv preprint arXiv:1802.07687}, 2018.
+
+\bibitem{Denton2015Deep}
+E.~L. Denton, S.~Chintala, R.~Fergus, et~al.
+\newblock Deep generative image models using a laplacian pyramid of adversarial
+  networks.
+\newblock In {\em NIPS}, pages 1486--1494, 2015.
+
+\bibitem{Finn2016Unsupervised}
+C.~Finn, I.~Goodfellow, and S.~Levine.
+\newblock Unsupervised learning for physical interaction through video
+  prediction.
+\newblock In {\em NIPS}, 2016.
+
+\bibitem{Goodfellow2014Generative}
+I.~J. Goodfellow, J.~Pougetabadie, M.~Mirza, B.~Xu, D.~Wardefarley, S.~Ozair,
+  A.~Courville, and Y.~Bengio.
+\newblock Generative adversarial networks.
+\newblock {\em NIPS}, 3:2672--2680, 2014.
+
+\bibitem{hochreiter1997long}
+S.~Hochreiter and J.~Schmidhuber.
+\newblock Long short-term memory.
+\newblock {\em Neural computation}, 9(8):1735--1780, 1997.
+
+\bibitem{ioffe2015batch}
+S.~Ioffe and C.~Szegedy.
+\newblock Batch normalization: Accelerating deep network training by reducing
+  internal covariate shift.
+\newblock In {\em ICML}, 2015.
+
+\bibitem{Kalchbrenner2016Video}
+N.~Kalchbrenner, A.~v.~d. Oord, K.~Simonyan, I.~Danihelka, O.~Vinyals,
+  A.~Graves, and K.~Kavukcuoglu.
+\newblock Video pixel networks.
+\newblock In {\em ICML}, 2017.
+
+\bibitem{Kingma2014Adam}
+D.~Kingma and J.~Ba.
+\newblock Adam: A method for stochastic optimization.
+\newblock In {\em ICLR}, 2015.
+
+\bibitem{kingma2013auto}
+D.~P. Kingma and M.~Welling.
+\newblock Auto-encoding variational bayes.
+\newblock {\em arXiv preprint arXiv:1312.6114}, 2013.
+
+\bibitem{krizhevsky2012imagenet}
+A.~Krizhevsky, I.~Sutskever, and G.~E. Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In {\em NIPS}, pages 1097--1105, 2012.
+
+\bibitem{lee2018stochastic}
+A.~X. Lee, R.~Zhang, F.~Ebert, P.~Abbeel, C.~Finn, and S.~Levine.
+\newblock Stochastic adversarial video prediction.
+\newblock {\em arXiv preprint arXiv:1804.01523}, 2018.
+
+\bibitem{Mathieu2015Deep}
+M.~Mathieu, C.~Couprie, and Y.~LeCun.
+\newblock Deep multi-scale video prediction beyond mean square error.
+\newblock In {\em ICLR}, 2016.
+
+\bibitem{oliu2017folded}
+M.~Oliu, J.~Selva, and S.~Escalera.
+\newblock Folded recurrent neural networks for future video prediction.
+\newblock {\em arXiv preprint arXiv:1712.00311}, 2017.
+
+\bibitem{patraucean2015spatio}
+V.~Patraucean, A.~Handa, and R.~Cipolla.
+\newblock Spatio-temporal video autoencoder with differentiable memory.
+\newblock In {\em ICLR Workshop}, 2016.
+
+\bibitem{percival1993spectral}
+D.~B. Percival and A.~T. Walden.
+\newblock {\em Spectral Analysis for Physical Applications}.
+\newblock Cambridge University Press, 1993.
+
+\bibitem{Ranzato2014Video}
+M.~Ranzato, A.~Szlam, J.~Bruna, M.~Mathieu, R.~Collobert, and S.~Chopra.
+\newblock Video (language) modeling: a baseline for generative models of
+  natural videos.
+\newblock {\em arXiv preprint arXiv:1412.6604}, 2014.
+
+\bibitem{shi2015convolutional}
+X.~Shi, Z.~Chen, H.~Wang, D.-Y. Yeung, W.-K. Wong, and W.-c. Woo.
+\newblock Convolutional lstm network: A machine learning approach for
+  precipitation nowcasting.
+\newblock In {\em NIPS}, pages 802--810, 2015.
+
+\bibitem{shi2017deep}
+X.~Shi, Z.~Gao, L.~Lausen, H.~Wang, D.-Y. Yeung, W.-k. Wong, and W.-c. Woo.
+\newblock Deep learning for precipitation nowcasting: A benchmark and a new
+  model.
+\newblock In {\em Advances in Neural Information Processing Systems}, 2017.
+
+\bibitem{srivastava2015unsupervised}
+N.~Srivastava, E.~Mansimov, and R.~Salakhutdinov.
+\newblock Unsupervised learning of video representations using lstms.
+\newblock In {\em ICML}, 2015.
+
+\bibitem{Sutskever2014Sequence}
+I.~Sutskever, O.~Vinyals, and Q.~V. Le.
+\newblock Sequence to sequence learning with neural networks.
+\newblock {\em NIPS}, 4:3104--3112, 2014.
+
+\bibitem{van2016conditional}
+A.~van~den Oord, N.~Kalchbrenner, L.~Espeholt, O.~Vinyals, A.~Graves, et~al.
+\newblock Conditional image generation with pixelcnn decoders.
+\newblock In {\em NIPS}, pages 4790--4798, 2016.
+
+\bibitem{Villegas2017Decomposing}
+R.~Villegas, J.~Yang, S.~Hong, X.~Lin, and H.~Lee.
+\newblock Decomposing motion and content for natural video sequence prediction.
+\newblock In {\em International Conference on Learning Representations (ICLR)},
+  2017.
+
+\bibitem{vondrick2016generating}
+C.~Vondrick, H.~Pirsiavash, and A.~Torralba.
+\newblock Generating videos with scene dynamics.
+\newblock In {\em Advances In Neural Information Processing Systems}, pages
+  613--621, 2016.
+
+\bibitem{wang2018predrnn++}
+Y.~Wang, Z.~Gao, M.~Long, J.~Wang, and P.~S. Yu.
+\newblock Predrnn++: Towards a resolution of the deep-in-time dilemma in
+  spatiotemporal predictive learning.
+\newblock {\em arXiv preprint arXiv:1804.06300}, 2018.
+
+\bibitem{wang2017predrnn}
+Y.~Wang, M.~Long, J.~Wang, Z.~Gao, and S.~Y. Philip.
+\newblock Predrnn: Recurrent neural networks for predictive learning using
+  spatiotemporal lstms.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  879--888, 2017.
+
+\bibitem{Wang2004Image}
+Z.~Wang, A.~C. Bovik, H.~R. Sheikh, and E.~P. Simoncelli.
+\newblock Image quality assessment: from error visibility to structural
+  similarity.
+\newblock {\em TIP}, 13(4):600, 2004.
+
+\bibitem{zhang2017deep}
+J.~Zhang, Y.~Zheng, and D.~Qi.
+\newblock Deep spatio-temporal residual networks for citywide crowd flows
+  prediction.
+\newblock In {\em AAAI}, pages 1655--1661, 2017.
+
+\bibitem{zhang2016dnn}
+J.~Zhang, Y.~Zheng, D.~Qi, R.~Li, and X.~Yi.
+\newblock Dnn-based prediction model for spatio-temporal data.
+\newblock In {\em Proceedings of the 24th ACM SIGSPATIAL International
+  Conference on Advances in Geographic Information Systems}, page~92. ACM,
+  2016.
+
+\end{thebibliography}
